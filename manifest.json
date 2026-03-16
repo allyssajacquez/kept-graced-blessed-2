@@ -1,0 +1,30 @@
+{
+  "short_name": "kept. graced. blessed.",
+  "name": "kept. graced. blessed.",
+  "description": "Your personal NKJV Bible app — read, reflect, and grow.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#c24a68",
+  "background_color": "#fdf0f3",
+  "scope": "/"
+}
